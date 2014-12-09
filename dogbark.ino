@@ -3,7 +3,7 @@
  * Please read through the code and place your own passwords and tokens. All places to replace or change are denoted by XXXX's or "Place your account/key info here"
  * Depending on use, you might have to change a few other things as well. Thanks! Enjoy!
  *
- * DemoApp.ino
+ * dogbark.ino
  *
  *      Created on: Nov 6, 2014
  *      Author: a0221660@ti.com
